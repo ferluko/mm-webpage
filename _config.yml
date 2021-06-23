@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Fernando Gonzalez (ferluko)
+  name   : "Fernando Gonzalez (ferluko)"
   avatar : "/assets/images/bio-WWTC.png"
   bio    : "Creative and open-minded IT Support Engineer with analytical and problem-solving skills during more than 17 years in corporate companies. Strongly specialized in Data Storage systems and Multi-cloud enterprise infrastructures. IT Architect with a collaborative management style to include teamwork and team building ability thru the knowledge transfer and mentoring. Solutions Architect with inquisitive and a flexible profile in a fast-changed dynamic environment with commercial vision of nowadays business across digital transformation. Practitioner of agile methodologies in Software Engineering with corporate project management background."
   links:
